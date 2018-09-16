@@ -1,0 +1,25 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "composite": true,
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "inlineSources": true,
+        "declarationMap": false,
+        "target": "es2017",
+        "module": "commonjs",
+        "declaration": true,
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "noResolve": false,
+        "preserveSymlinks": true,
+        "listFiles": false,
+        "listEmittedFiles": false
+    },
+    "files": [
+        "app.ts"
+    ]
+  }
+  
